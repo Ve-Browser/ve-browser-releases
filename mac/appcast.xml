@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ve</title>
+        <item>
+            <title>0.0.170</title>
+            <pubDate>Wed, 21 Oct 2026 01:35:49 +0000</pubDate>
+            <sparkle:version>1701</sparkle:version>
+            <sparkle:shortVersionString>0.0.170</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Ve 0.0.170&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Workspace invitations work end to end: owners and admins can invite people, see pending invitations, resend or revoke them, and invited people accept or decline from the invitation page.&lt;/li&gt;&lt;li&gt;Workspace owners get a switch, off by default, to let people with a company-domain email join the workspace.&lt;/li&gt;&lt;li&gt;Sign-in stays active through a laptop sleep and through the moment of signing in, instead of signing you out.&lt;/li&gt;&lt;li&gt;Sharing a connection with other members is never allowed; the refusal now says why in plain words.&lt;/li&gt;&lt;li&gt;Settings shows what Ve remembers about you and lets you delete one memory or all of them.&lt;/li&gt;&lt;li&gt;Suspended or closed accounts and paused workspaces now get a clear explanation at sign-in instead of a generic failure.&lt;/li&gt;&lt;li&gt;A sign-in started in one installed copy of Ve is handed back to that copy instead of being lost in another.&lt;/li&gt;&lt;li&gt;Ve Code offers one place to connect an AI account when none is connected, and Send explains why it is unavailable while signed out.&lt;/li&gt;&lt;li&gt;Setup screens for AI plans and GitHub show your real profile and accounts, and wait for the local agent instead of failing early.&lt;/li&gt;&lt;li&gt;Touch ID passkeys for the Ve Vault are not available in this version.&lt;/li&gt;&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/Ve-Browser/ve-browser-releases/releases/download/v0.0.170/Ve-0.0.170-arm64.dmg" length="459694468" type="application/octet-stream" sparkle:edSignature="OIsaOprd3MW/Ob0s3HTHxhGVGgR126EN7H7ph7W6L+l8KLPLhn+QJnX4XGmvu3UMn8mnu0B8VWZolXbvKqdbCg==" />
+        </item>
+    </channel>
+</rss>
